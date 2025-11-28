@@ -1,5 +1,5 @@
 # EX 60 C function to find the peek element of the queue using linked list.
-## DATE:24/11/2025
+## DATE:28/11/2025
 ## AIM:
 To write a C function to find the peek element of the queue using linked list.
 
