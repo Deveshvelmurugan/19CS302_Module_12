@@ -4,7 +4,6 @@
 To write a C Function to display queue elements using Linked List.
 
 ## Algorithm
-
 1. **Start**  
 2. Define a structure `Node` with two fields:  
    - `data` (integer type)  
