@@ -1,5 +1,5 @@
 # EX 59 C functions to perform-enqueue, dequeue, peek, display in Queue using Linked List.(use float data in Queue).
-## DATE:24/11/2025
+## DATE:28/11/2025
 ## AIM:
 To write a C functions to perform-enqueue, dequeue, peek, display in Queue using Linked List.
 
